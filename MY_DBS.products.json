@@ -1,0 +1,56 @@
+[{
+  "_id": 0,
+  "name": "Jeans",
+  "size": "small",
+  "price": 200,
+  "quantity": 10
+},
+{
+  "_id": 1,
+  "name": "Shirt",
+  "size": "medium",
+  "price": 150,
+  "quantity": 20
+},
+{
+  "_id": 2,
+  "name": "T-shirt",
+  "size": "large",
+  "price": 350,
+  "quantity": 30
+},
+{
+  "_id": 3,
+  "name": "Shorts",
+  "size": "small",
+  "price": 120,
+  "quantity": 15
+},
+{
+  "_id": 4,
+  "name": "Tank Top",
+  "size": "medium",
+  "price": 100,
+  "quantity": 50
+},
+{
+  "_id": 5,
+  "name": "Flip Flops",
+  "size": "large",
+  "price": 50,
+  "quantity": 10
+},
+{
+  "_id": 6,
+  "name": "Tuxido",
+  "size": "small",
+  "price": 500,
+  "quantity": 10
+},
+{
+  "_id": 7,
+  "name": "Blazzer",
+  "size": "medium",
+  "price": 250,
+  "quantity": 10
+}]
